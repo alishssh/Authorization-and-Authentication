@@ -38,7 +38,7 @@ FAST Api
   
   from sqlalchemy.orm import sessionmaker
   
-  DATABASE\_URL="postgresql://postgres:Alish@123@localhost:5432/Intern"
+  DATABASE\_URL="postgresql://postgres:******@localhost:5432/Intern"
   
   engine = create\_engine(DATABASE\_URL)
   
